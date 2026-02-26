@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankTests/BankTests.csproj" />
+  <Project Path="karlagina_pr1/karlagina_pr1.csproj" />
+</Solution>
